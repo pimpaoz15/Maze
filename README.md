@@ -1,2 +1,2 @@
 # Maze
-Computer Networks and the Internet project @ Instituto Superior Técnico, P3 2021/2022
+Algorithms and Data Structure project @ Instituto Superior Técnico, S1 2021/2022
